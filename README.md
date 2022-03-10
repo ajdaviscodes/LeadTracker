@@ -9,6 +9,6 @@
 ## How to use
 
     🔵 This Chrome extenstion will allow the user to save links in localStorage with a simple click.
-    🔵 **"SAVE INPUT"** will save the user's typed or copy / pasted link in the input field.
-    🔵 **"SAVE TAB"** uses Google Chrome API to access the current tab and save into localStorage.
-    🔵 **"DELETE ALL"** activate with 'double click' to delete all saved links.
+    🔵 "SAVE INPUT" will save the user's typed or copy / pasted link in the input field.
+    🔵 "SAVE TAB" uses Google Chrome API to access the current tab and save into localStorage.
+    🔵 "DELETE ALL" activate with 'double click' to delete all saved links.
